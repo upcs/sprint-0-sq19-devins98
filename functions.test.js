@@ -11,6 +11,6 @@ test('adds given numbers 2 + 4 to equal 6', () => {
 });
 
 //should fail
-test('adds two given numbers with incorrect sum', ()=> {
-    expect(addTwoNumbers()).toBe(19);
-});
+//test('adds two given numbers with incorrect sum', ()=> {
+ //   expect(addTwoNumbers()).toBe(19);
+//});
