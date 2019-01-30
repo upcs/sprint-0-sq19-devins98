@@ -1,0 +1,18 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "adds two given numbers and prints \"Hello world!\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node js/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/upcs/sprint-0-sq19-devins98"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.0.0"
+  }
+}
